@@ -1,0 +1,47 @@
+Nome do Vendedor,Zona de Vendas do Vendedor,Marca do Carro Vendido,Modelo do Carro Vendido,Nome do Carro Vendido,Modelo de Venda do Carro Vendido,Valor do Carro Vendido,Data da Venda do Carro,Status do Financiamento do Carro Vendido
+João Silva,Norte,Ford,Sedan,Gol,À vista,25000,2023-07-18,Em dia
+Maria Oliveira,Sul,Honda,Hatch,Kwid,Financiado,30000,2023-09-03,Atrasado
+Pedro Santos,Leste,Volkswagen,SUV,Civic,À vista,50000,2023-05-19,Em dia
+Ana Pereira,Oeste,Chevrolet,Picape,Ka,Financiado,40000,2023-01-14,Em dia
+Lucas Lima,Centro,Honda,Sedan,Compass,À vista,20000,2023-08-22,Atrasado
+Fernanda Rodrigues,Sul,Toyota,SUV,Ka,À vista,60000,2023-06-29,Em dia
+Gabriel Almeida,Leste,Jeep,Picape,Gol,Financiado,45000,2023-08-19,Em dia
+Isabela Nascimento,Oeste,Ford,Sedan,HB20,À vista,35000,2023-06-24,Atrasado
+Mateus Souza,Centro,Nissan,Hatch,Gol,Financiado,28000,2023-06-16,Em dia
+João Silva,Norte,Chevrolet,SUV,HB20,À vista,25000,2023-07-09,Em dia
+Maria Oliveira,Sul,Toyota,Picape,Civic,Financiado,30000,2023-01-31,Atrasado
+Pedro Santos,Leste,Renault,Sedan,Mobi,À vista,50000,2023-10-14,Em dia
+Ana Pereira,Oeste,Hyundai,Hatch,Versa,Financiado,40000,2023-08-18,Em dia
+Lucas Lima,Centro,Volkswagen,SUV,Kwid,À vista,20000,2023-05-24,Atrasado
+Fernanda Rodrigues,Sul,Chevrolet,Sedan,Gol,À vista,60000,2023-12-21,Em dia
+Gabriel Almeida,Leste,Chevrolet,Hatch,Mobi,Financiado,45000,2023-11-16,Em dia
+Isabela Nascimento,Oeste,Fiat,SUV,Kwid,À vista,35000,2023-05-20,Atrasado
+Mateus Souza,Centro,Jeep,Picape,Onix,Financiado,28000,2023-11-26,Em dia
+João Silva,Norte,Renault,Sedan,Onix,À vista,25000,2023-07-21,Em dia
+Maria Oliveira,Sul,Ford,Hatch,Ka,Financiado,30000,2023-05-26,Atrasado
+Pedro Santos,Leste,Chevrolet,SUV,Kwid,À vista,50000,2023-05-29,Em dia
+Ana Pereira,Oeste,Honda,Picape,Compass,Financiado,40000,2023-07-26,Em dia
+Lucas Lima,Centro,Fiat,Sedan,HB20,À vista,20000,2023-12-08,Atrasado
+Fernanda Rodrigues,Sul,Ford,SUV,Gol,À vista,60000,2023-09-14,Em dia
+Gabriel Almeida,Leste,Honda,Picape,Gol,Financiado,45000,2023-09-05,Em dia
+Isabela Nascimento,Oeste,Nissan,Sedan,Versa,À vista,35000,2023-07-21,Atrasado
+Mateus Souza,Centro,Nissan,Hatch,HB20,Financiado,28000,2023-09-05,Em dia
+João Silva,Norte,Jeep,SUV,Compass,À vista,25000,2023-01-18,Em dia
+Maria Oliveira,Sul,Ford,Picape,Corolla,Financiado,30000,2023-07-25,Atrasado
+Pedro Santos,Leste,Hyundai,Sedan,Gol,À vista,50000,2023-10-03,Em dia
+Ana Pereira,Oeste,Ford,Hatch,Civic,Financiado,40000,2023-07-31,Em dia
+Lucas Lima,Centro,Nissan,SUV,Ka,À vista,20000,2023-02-06,Atrasado
+Julia Castro,Norte,Ford,Picape,Compass,Financiado,18000,2023-01-25,Em dia
+Fernanda Rodrigues,Sul,Hyundai,Sedan,Gol,À vista,60000,2023-12-24,Em dia
+Gabriel Almeida,Leste,Honda,Hatch,HB20,Financiado,45000,2023-07-01,Em dia
+Isabela Nascimento,Oeste,Hyundai,SUV,Kwid,À vista,35000,2023-07-02,Atrasado
+Mateus Souza,Centro,Volkswagen,Picape,Gol,Financiado,28000,2023-11-13,Em dia
+João Silva,Norte,Toyota,Sedan,Compass,À vista,25000,2023-07-07,Em dia
+Maria Oliveira,Sul,Chevrolet,Hatch,Versa,Financiado,30000,2023-04-14,Atrasado
+Pedro Santos,Leste,Toyota,SUV,Versa,À vista,50000,2023-09-13,Em dia
+Ana Pereira,Oeste,Honda,Picape,Mobi,Financiado,40000,2023-01-29,Em dia
+Lucas Lima,Centro,Jeep,Sedan,HB20,À vista,20000,2023-06-27,Atrasado
+Julia Castro,Norte,Fiat,Hatch,Versa,Financiado,18000,2023-06-08,Em dia
+Fernanda Rodrigues,Sul,Fiat,SUV,Civic,À vista,60000,2023-04-22,Em dia
+Mateus Souza,Centro,Hyundai,Sedan,Corolla,Financiado,28000,2023-04-16,Em dia
+Mateus Souza,Centro,Hyundai,SUV,Civic,Financiado,28000,2023-04-16,Em dia

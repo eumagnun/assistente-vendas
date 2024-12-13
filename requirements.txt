@@ -1,0 +1,8 @@
+﻿pandas
+altair
+numpy
+tabulate
+streamlit
+google-cloud-aiplatform
+python-dotenv
+google-cloud-firestore
