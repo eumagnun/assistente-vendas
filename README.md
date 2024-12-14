@@ -41,9 +41,9 @@ Caso queira gerar uma imagem para implantação no Cloud Run:
 
  - Gerar imagem:
 ````
-docker build -t us-central1-docker.pkg.dev/[PROJECT_ID]/demos/demo_assist_vendas.
+docker build -t us-central1-docker.pkg.dev/[PROJECT_ID]/demos/demo_assist_vendas .
 ````
  - Enviar imagem para o Registry:
 ````
-docker push us-central1-docker.pkg.dev/[PROJECT_ID]demos/demo_assist_vendas
+docker push us-central1-docker.pkg.dev/[PROJECT_ID]/demos/demo_assist_vendas
 ````
