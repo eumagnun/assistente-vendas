@@ -1,6 +1,9 @@
 # IARA-assistente-vendas
 
+### LLM app criado para suporte em workshops.
+### Trata-se de um assistente que responde dúvida baseadas em dados de um csv com dados de vendas de carros.
 
+### Passos para execução e deploy:
  - Clonar esse repo
 ````
 git clone xxxxxxx
